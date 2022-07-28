@@ -1,0 +1,3 @@
+https://nyang-in.tistory.com/156
+
+node 파일이름 으로 실행
